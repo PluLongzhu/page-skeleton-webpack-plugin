@@ -1,6 +1,6 @@
 {
-  "name": "page-skeleton-webpack-plugin",
-  "version": "0.10.12",
+  "name": "vue-cli-skeleton-webpack-plugin",
+  "version": "0.11.0",
   "description": "web site skeleton generator",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,9 @@
     "prepare": "npm run build:index && npm run build:sockjs && npm run build:preview && npm run build:script"
   },
   "keywords": [
+    "vue-cli",
     "puppeteer",
-    "page skeleton",
+    "skeleton",
     "webpack"
   ],
   "author": "jocs",
